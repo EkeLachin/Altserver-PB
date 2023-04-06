@@ -16,3 +16,10 @@ Download Link --> https://github.com/EkeLachin/Altserver-PB/archive/refs/heads/m
 ### Leave AltServer running, and AltStore will do the rest.
 ![resim_2023-04-06_225301321](https://user-images.githubusercontent.com/104994662/230481631-d92e0318-7dfd-4f21-9e8c-10af7c59503c.png)
 
+# Download (Alternative Link) AltServer for... 
+## Windows 10 or later
+### .exe Setup --> https://github.com/EkeLachin/Altserver-PB/raw/main/1WindowsDownload/setup.exe
+
+### .msi Microsoft İnstaller --> https://github.com/EkeLachin/Altserver-PB/raw/main/1WindowsDownload/AltInstaller.msi
+
+## MacOS 10.14.4+
