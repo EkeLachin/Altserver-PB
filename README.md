@@ -4,7 +4,8 @@ Download Link --> https://github.com/EkeLachin/Altserver-PB/archive/refs/heads/m
 
 # 1. Step:
 ### Download AltServer on your computer, then install AltStore to your phone.
-https://raw.githubusercontent.com/EkeLachin/Altserver-mg/main/resim_2023-04-06_225006711.png
+![resim_2023-04-06_225301321](https://user-images.githubusercontent.com/104994662/230481193-f8be2570-d5c6-4021-a207-7c625ef844bf.png)
+
 
 # 2. Step:
 ### Launch AltStore to begin downloading apps.
