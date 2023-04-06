@@ -9,8 +9,10 @@ Download Link --> https://github.com/EkeLachin/Altserver-PB/archive/refs/heads/m
 
 # 2. Step:
 ### Launch AltStore to begin downloading apps.
-https://raw.githubusercontent.com/EkeLachin/Altserver-mg/main/launch-altstore.gif
+![launch-altstore](https://user-images.githubusercontent.com/104994662/230481524-d4df5029-2be6-4941-832c-b4f872bb9437.gif)
+
 
 # 3. Step:
 ### Leave AltServer running, and AltStore will do the rest.
-https://raw.githubusercontent.com/EkeLachin/Altserver-mg/main/resim_2023-04-06_225301321.png
+![resim_2023-04-06_225301321](https://user-images.githubusercontent.com/104994662/230481631-d92e0318-7dfd-4f21-9e8c-10af7c59503c.png)
+
